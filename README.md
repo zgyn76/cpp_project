@@ -1,2 +1,2 @@
-# cpp_project
+# project
 some good projects
